@@ -1,4 +1,11 @@
-dna_sequence = "ATTACGACTATCACAGCATACGCAGACTACTAGACGATCACAG"
+
+
+
+dna_sequence = input("Enter the DNA sequence: ")
+
+
+
+#dna_sequence = "ATTACGACTATCACAGCATACGCAGACTACTAGACGATCACAG"
 
 print("DNA analysis Report")
 print(f"DNA Sequence> {dna_sequence}")
